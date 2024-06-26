@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e5686b4-e678-417e-be1b-d953bdb781d9" name="Changes" comment="" />
+    <list default="true" id="1e5686b4-e678-417e-be1b-d953bdb781d9" name="Changes" comment="Path" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +24,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CreadorDeArchivosTxT.executor": "Coverage",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -63,7 +64,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719378663547</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Path">
+      <option name="closed" value="true" />
+      <created>1719378916308</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719378916308</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -71,6 +80,10 @@
     <MESSAGE value="Se creó funcionalidad" />
     <MESSAGE value="Se arreglan mensaje" />
     <MESSAGE value="Esteticos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Esteticos" />
+    <MESSAGE value="Path" />
+    <option name="LAST_COMMIT_MESSAGE" value="Path" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/manejoDeArchivosConJava$CreadorDeArchivosTxT.ic" NAME="CreadorDeArchivosTxT Coverage Results" MODIFIED="1719378954267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
   </component>
 </project>
