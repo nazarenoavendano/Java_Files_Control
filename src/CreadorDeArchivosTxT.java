@@ -2,7 +2,8 @@ import java.io.*;
 import java.util.Scanner;
 
 public class CreadorDeArchivosTxT {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
+
         String ruta = "C:\\Users\\nazar\\OneDrive\\Escritorio\\misArchivos\\archivo";
         String mensaje = "Guaymallen de fruta es el caviar";
 
