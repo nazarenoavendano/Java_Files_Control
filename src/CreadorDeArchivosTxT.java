@@ -5,7 +5,7 @@ public class CreadorDeArchivosTxT {
     public static void main(String[] args) {
 
         String ruta = "C:\\Users\\nazar\\OneDrive\\Escritorio\\misArchivos\\archivo";
-        String mensaje = "Guaymallen de fruta es el caviar";
+        String mensaje = "Guaymallen de fruta es el caviar!!!";
 
         System.out.println("Mis manejos de archivos con Java");
         System.out.println("--------------------------------");
