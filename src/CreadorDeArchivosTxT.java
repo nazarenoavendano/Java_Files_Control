@@ -24,7 +24,7 @@ public class CreadorDeArchivosTxT {
             } catch (IOException e) {
                 e.printStackTrace();
                 System.out.println("--------------------------------");
-                System.out.println("Malió sal :( ");
+                System.out.println("Salió mal :( ");
                 System.out.println("--------------------------------");
             }
         }
